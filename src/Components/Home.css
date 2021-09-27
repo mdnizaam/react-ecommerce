@@ -1,0 +1,13 @@
+/* .carousel-inner img {
+    width: 50%;
+    height: 0%; 
+  } */
+
+  /* .imgzoom img {
+    width: 100%;
+    transition: 0.5s all ease-in-out;
+} */
+.imgzoom:hover img {
+    transform: scale(1.1);
+}
+  
